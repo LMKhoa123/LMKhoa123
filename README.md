@@ -48,14 +48,13 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LMKhoa123&theme=react&hide_border=true&background=0D1117"/>
 </div>
 
-<!-- Tech Stack - More compact grid -->
+
 <div align="center">
   <h2>🛠️ Technology Stack</h2>
   
   <h3>Frontend</h3>
   <p>
     <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs"/>
-    <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs"/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
   </p>
@@ -70,7 +69,6 @@
   <h3>Backend & Database</h3>
   <p>
     <img src="https://img.shields.io/badge/SQL_SERVER-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="sqlserver"/>
-    <img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
     <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/>
   </p>
 
